@@ -12,4 +12,5 @@ Projeto realizado no bootcamp da DIO: "Heineken - Inteligência Artificial Aplic
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 - Uma OS pode ser composta por vários serviços e um mesmo serviço pode estar contido em mais de uma OS.
 - Uma OS pode ter vários tipo de de peça e uma peça pode estar presente em mais de uma OS
+  
 ![image](https://github.com/user-attachments/assets/d97655be-5da7-4389-9814-465ba3be5827)
